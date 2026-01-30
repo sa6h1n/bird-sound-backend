@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-birdnetlib
-tensorflow
-librosa
-soundfile
-numpy
-scipy
-requests
