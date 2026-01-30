@@ -1,9 +1,8 @@
 fastapi
 uvicorn
+python-multipart
 birdnetlib
 tensorflow
-librosa
-soundfile
 numpy
-scipy
-requests
+soundfile
+pydub
